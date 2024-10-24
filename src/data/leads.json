@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "status": "New",
+      "createdAt": "2024-10-01"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "status": "Contacted",
+      "createdAt": "2024-10-02"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "status": "Converted",
+      "createdAt": "2024-10-03"
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "email": "bob@example.com",
+      "status": "New",
+      "createdAt": "2024-10-04"
+    }
+  ]
+  

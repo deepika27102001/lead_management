@@ -1,0 +1,28 @@
+.dashboard {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .dashboard h1 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .add-widget {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF;
+    transition: background-color 0.3s, transform 0.2s;
+    margin-bottom: 20px;
+  }
+  
+  .add-widget:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+  }
+  
