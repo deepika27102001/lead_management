@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leadmanagement/static/css/main.9dac4553.css",
+    "main.js": "/leadmanagement/static/js/main.7c6c3130.js",
+    "index.html": "/leadmanagement/index.html",
+    "main.9dac4553.css.map": "/leadmanagement/static/css/main.9dac4553.css.map",
+    "main.7c6c3130.js.map": "/leadmanagement/static/js/main.7c6c3130.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dac4553.css",
+    "static/js/main.7c6c3130.js"
+  ]
+}
